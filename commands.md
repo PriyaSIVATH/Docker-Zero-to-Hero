@@ -17,6 +17,7 @@ Runs a Docker container.
 There are many arguments which you can pass to this command for example,
 
 `docker run -d` -> Run container in background and print container ID
+
 `docker run -p` -> Port mapping
 
 use `docker run --help` to look into more arguments.
